@@ -1,0 +1,152 @@
+{
+  "main": {
+    "name": "Tanishka Porwal",
+    "occupation": "Software Developer",
+    "description": "Avid Reader | Keen Learner ",
+    "image": "My_Image.jpg",
+    "bio": "My name is Tanishka, I'm a Frontend Developer. Currently I'm pursuing master's in Information Systems. I have worked as WomenTechmakers Lead for 2 years to increase awarness about technology in women and motivate them to join tech field. ",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "porwal.t@northeastern.edu",
+    "phone": "+1 (857)272-0298",
+    "address": {
+      "street": "24W Walnut Park",
+      "city": "Boston",
+      "state": "US",
+      "zip": "02119"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Firefly.tanishka/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tanishkaporwal/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/tanishka_porwal/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tanishka-porwal",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Northeastern University",
+        "degree": "Masters in Information Systems",
+        "description": "Coursework - Application Engineering Development, Web Design and User Experience Engineering, Program structures and algorithm, Concepts of Object-Oriented Design, Database Management and design, Web Development Tools and methods, User experience design and testing"
+      }
+    ],
+    "work": [
+      {
+        "company": "NBC News",
+        "title": "React Front End UI Web Developer",
+        "years": "May 2020 - Aug 2021",
+        "description": "Part of the front engineering web team to develop and maintain NBCNews.com. Tech Stack - React, SASS, Node and MongoDB.Translated design team's UX wireframes and mockups into responsive, interactive features, using HTML, CSS, JavaScript and Bootstrap. Developed new styled components to replace legacy applications and simultaneously migrate it to react. Tested components using Jest and Enzyme to make sure they are production ready and peer review the code and flow. Responsible for architecting complex front-end solutions for business requirements. Integrated the front end with a home grown CMS solution for publishers. Page performance analysis and optimization. Deployed a test environment using Jenkins CI/CD and GitHub. Built great online seamless user experiences using modern frameworks and libraries. Build Single Page Applications (SPAs) and PWA using react, redux, JavaScript (ES6) with backward compatibility."
+      },
+      {
+        "company": "EngineerBabu",
+        "title": "Software Developer",
+        "years": "October 2018 - June 2019",
+        "description": "Built REST API’s for food, Travel and ecommerce web enterprise applications. Implemented J2EE design patterns and Microservice Architecture which catalyzed the development process by 20%. Consistently improved multiple components focus on performance design, also developed UI of product landing pages. Utilized frameworks such as Hibernate and Spring for persistence and application layers. Implemented code fixes and solved critical client issues that enhanced the efficiency of the team by 15%. Performed Junit and Selenium Testing on an application which was in development phase."
+      },
+      {
+        "company": "Pixel NX",
+        "title": "UI Developer",
+        "years": "January 2017 - June 2017",
+        "description": "Analyzed the data, designed GUIs with JSP, JS, jQuery, Html & CSS and debugged the code which increased the code efficiency. Developed components and modules of PixelNX website in React which increased the website traffic by 28% within 40 days. Developed Multi-platform responsive applications using React. Collaborated closely with Product Owners, Quality Assurance to deliver the Project. Worked in Scrum (Agile, Kanban) and SDLC environments."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "75%"
+      },
+      {
+        "name": "Angular.js",
+        "level": "65%"
+      },
+      {
+        "name": "Spring MVC, Hibernate",
+        "level": "60%"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "level": "70%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Weather App  ",
+        "category": "Weather App Built with (React, Node.js, JavaScript, HTML, CSS, Express.js)",
+        "image": "weather-app.jpg",
+        "description": "Devised an App using React which helps users to get the next 5 days weather prediction with icons. Computed hourly weather through city and country name by using Open weather API and used Ajax for timely weather update. "
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
